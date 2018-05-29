@@ -26,8 +26,19 @@ table{
 .Danza{
   background-color: #303f9f;
   color: white;
+  
 
 }
 .margin{
   padding: 50px 50px 50px 50px;
+}
+
+.redes{
+  float: right;
+  margin-top: 5px;
+ 
+}
+
+.cine{
+  
 }
