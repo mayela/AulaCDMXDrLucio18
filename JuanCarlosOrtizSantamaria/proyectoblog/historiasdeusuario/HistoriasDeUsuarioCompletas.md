@@ -41,3 +41,16 @@ Yo como USUARIO DEL BLOG CULTURAL quiero TENER LA OPCIÓN DE VISITAR LAS REDES S
 CRITERIOS DE ACEPTACIÓN:
 Contar con botones que enlacen a las diferentes redes sociales.
 Que los enlaces estén funcionando.
+
+Historia de usuario 
+Yo como USUARIO DEL BLOG CULTURAL quiero PODER REGISTRARME PARA RECIBIR EMAILS CON INFORMACION RELEVANTE.
+CRITERIOS DE ACEPTACION:
+Que tenga una opción que me permita redirigirme a una página donde me pueda registrar.
+Que me solicite la opción de recabar mis datos personales y preferencias.
+
+Historia de usuario
+Yo como USUARIO DEL BLOG quiero VER EN LA PAGINA DE INICIO EL CONTENIDO MAS RELEVANTE EN UN CARRUSEL DE IMAGENES.
+CRITERIOS DE ACEPTACION:
+Tener una galería en carrusel con minimo 3 imagenes con el contenido más relevante.
+
+
