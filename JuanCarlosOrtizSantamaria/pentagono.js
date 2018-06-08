@@ -8,14 +8,14 @@ mover(x,y){
     this.y=y
     this.g=g
 }
-class pentagono extends Forma{
+class PENTAGONO extends Forma{
     constructor(id,x,y,g,lado){
         super(id.x.y,g,)
         this.lado
     }
 }
 
-var pentagono=new pentagono(1,4,5,60,10);
+var pentagono = new PENTAGONO(1,4,5,60,10);
 console.log("id",+ pentagono.id)
 console.log("x",+ pentagono.x)
 console.log("y",+ pentagono.y)
